@@ -1,0 +1,39 @@
+nav{
+    background-color: #ACECE8;
+}
+.btn{
+    background-color:#092D43;
+}
+.btn2{
+    background-color:white;
+    color:#092D43;
+}
+.banner{
+    background-color: #18736D;
+
+}
+
+.banner-img{
+   background-image: url('images/Hero.png');
+   background-repeat: no-repeat;
+   background-size: contain;
+   background-position: center;
+   height:400px;
+}
+.txt{
+    color:#2D2F30;
+}
+.footer{
+    background-color: #18736D;
+}.provide{
+    background-color: #ACECE8;
+}
+.ser-title{
+    color:#18736D;
+}
+.client-review{
+    background-color: #F2F7FF;
+}
+.provide{
+    margin-top:-50px;
+}
